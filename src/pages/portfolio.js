@@ -1,8 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Header from '../components/header';
-import note from '../images/note.png';
-
+//like this v
+import note from '../images/note.png'
+import backend from '../images/backendshop.png'
 const projects = [
   {
     id: 1,
@@ -19,19 +20,19 @@ const projects = [
   {
     id: 3,
     title: 'Note Taker',
-    image: './images/note.png',
+    image: `${note}`,
     link: 'https://github.com/Dkargis/Note_taker',
   },
   {
     id: 4,
     title: 'E-Commerce Back End',
-    image: '../../../public/assets/images/backendshop.png',
+    image: `${backend}`,
     link: 'https://github.com/Dkargis/E-commerce.git'
   },
   {
     id: 5,
     title: 'Hiking App',
-    image: '/assets/images/hike.png',
+    image: '../public/assets/images/hike.png',
     link: 'https://github.com/Dkargis/team-Inception.git'
   },
   {
