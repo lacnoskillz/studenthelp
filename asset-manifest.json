@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/studenthelp/static/css/main.14a58e42.css",
+    "main.js": "/studenthelp/static/js/main.9d04693c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/studenthelp/static/js/787.1ed0c42c.chunk.js",
+    "static/media/backendshop.png": "/studenthelp/static/media/backendshop.6ab1b7b6df71d5d92119.png",
+    "static/media/gojo.jpeg": "/studenthelp/static/media/gojo.4ff16051511b302057f9.jpeg",
+    "static/media/note.png": "/studenthelp/static/media/note.7d43321018b817cef100.png",
+    "index.html": "/studenthelp/index.html",
+    "main.14a58e42.css.map": "/studenthelp/static/css/main.14a58e42.css.map",
+    "main.9d04693c.js.map": "/studenthelp/static/js/main.9d04693c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/studenthelp/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a58e42.css",
+    "static/js/main.9d04693c.js"
+  ]
+}
